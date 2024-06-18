@@ -21,7 +21,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://recipe-page-main-six-psi.vercel.app/)
 
 ## My process
 
